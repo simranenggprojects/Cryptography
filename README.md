@@ -1,4 +1,4 @@
-# Ethical-Hacking
+# Cryptography
 It includes coding of famous ciphers in simplified and generalized manner.
 Some popular ciphers in ethical hacking with code in C++
 
