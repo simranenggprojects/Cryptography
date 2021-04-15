@@ -21,3 +21,7 @@ Decryption is reverse process of it.
 3. Block Cipher
 4. Better than Caesar Cipher
 
+### 3. Hill Cipher
+### 4. Rail Fence Cipher
+### 5. Row Transposition Cipher
+
