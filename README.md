@@ -24,4 +24,5 @@ Decryption is reverse process of it.
 ### 3. Hill Cipher
 ### 4. Rail Fence Cipher
 ### 5. Row Transposition Cipher
+### 6. DES, DES2, DES3
 
